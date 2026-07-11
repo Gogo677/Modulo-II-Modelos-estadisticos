@@ -36,4 +36,4 @@ También se requiere Jupyter (`jupyter`, `notebook` o `jupyterlab`) o un editor 
 
 ## Bibliografía
 
-- Rincón, L. (2014). *Curso elemental de probabilidad y estadística*. Facultad de Ciencias, UNAM.
+- [Rincón, L. (2014). *Curso elemental de probabilidad y estadística*. Facultad de Ciencias, UNAM.](https://www.cimat.mx/~pabreu/LuisRinconI.pdf) (consultado el 11/Julio/2025)
