@@ -1,4 +1,4 @@
-# Entrega Final - Módulo II: Técnicas Estadísticas
+# Entrega Final - Módulo II: Modelos estadísticos
 
 ## Descripción del proyecto
 
