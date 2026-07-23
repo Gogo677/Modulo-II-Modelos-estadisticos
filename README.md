@@ -6,7 +6,7 @@ Este repositorio contiene la entrega final del Módulo II del diplomado de Técn
 
 - **`1 Espacio de probabilidad.ipynb`**: define formalmente el espacio de probabilidad, el espacio muestral, los eventos y los axiomas de Kolmogorov; desarrolla la probabilidad condicional y la independencia; presenta los enfoques clásico, frecuentista y geométrico; e incluye ejemplos clásicos (problema del encuentro, ejemplo del volado) y un ejemplo adicional propio (problema del cumpleaños).
 - **`2 Variables aleatorias.ipynb`**: cubre siete distribuciones discretas (uniforme discreta, Bernoulli, binomial, geométrica, Poisson, binomial negativa, hipergeométrica) y cuatro distribuciones continuas (uniforme continua, normal, exponencial, gamma), simulación mediante el método de la transformada inversa, la función generadora de momentos (FGM), la función característica (FC), la Ley de los Grandes Números (LGN) y el Teorema Central del Límite (TCL).
-- **`3 Estadistica inferencial.ipynb`**: Ya mero (En progreso...)
+- **`3 Estadistica inferencial.ipynb`**: desarrolla estimadores puntuales (método de momentos y máxima verosimilitud), sus propiedades (insesgadez, consistencia, eficiencia) e intervalos de confianza para una media y para una proporción, incluyendo una simulación de cobertura.
 
 El archivo `Entrega_Final_Modulo_II.ipynb` es el checklist original de requisitos de la entrega y no forma parte del contenido a evaluar.
 
@@ -36,6 +36,8 @@ También se requiere Jupyter (`jupyter`, `notebook` o `jupyterlab`) o un editor 
 
 ## Bibliografía
 
-- [Rincón, L. (2014). *Curso elemental de probabilidad y estadística*. Facultad de Ciencias, UNAM.](https://www.cimat.mx/~pabreu/LuisRinconI.pdf) (consultado el 11/Julio/2025)
-
-- [Pishro-Nik, H. (2014). *Introduction to Probability, Statistics, and Random Processes*. ](https://www.probabilitycourse.com/preface.php?authuser=0) (consultado el 13/Julio/2025)
+- [Rincón, L. (2014). *Curso elemental de probabilidad y estadística*. Facultad de Ciencias, UNAM.](https://www.cimat.mx/~pabreu/LuisRinconI.pdf)
+- Ross, S. M. (2010). *A First Course in Probability* (8a ed.). Pearson.
+- Mood, A. M., Graybill, F. A., & Boes, D. C. (1974). *Introduction to the Theory of Statistics* (3a ed.). McGraw-Hill.
+- Mendenhall, W., Beaver, R. J., & Beaver, B. M. (2013). *Introduction to Probability and Statistics* (14a ed.). Cengage Learning.
+- [Pishro-Nik, H. (2014). *Introduction to Probability, Statistics, and Random Processes*. ](https://www.probabilitycourse.com/preface.php?authuser=0) 
